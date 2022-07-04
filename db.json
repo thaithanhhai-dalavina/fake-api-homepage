@@ -172,13 +172,9 @@
                 }
             ],
             "sliders":[
-                {
-                    "id":[{
-                        "slider1": "https://i.imgur.com/yIJj597.jpg",
-                        "slider2": "https://i.imgur.com/P5Z7m0K.png",
-                        "slider3": "https://i.imgur.com/rNNFUHT.jpg"
-                    }]
-                }
+                "https://i.imgur.com/yIJj597.jpg",
+                "https://i.imgur.com/P5Z7m0K.png",
+                "https://i.imgur.com/rNNFUHT.jpg"
             ],
             "news":[
                 {
