@@ -73,6 +73,7 @@
                     "product_id": "SP05",
                     "category_id": "L02",
                     "product_name": "Trà đào cam sả",
+                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
                     "product_img":[
                         "https://i.imgur.com/AQGktDT.png"
                     ],
