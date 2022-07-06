@@ -181,17 +181,17 @@
                 {
                     "news_id": "N01",
                     "news_img": "https://i.imgur.com/VpIJKgf.jpg",
-                    "news_content": "Đây là bài viết do thằng Anh LQ viết"
+                    "news_content": "TypeScript là một ngôn ngữ lập trình được phát triển và duy trì bởi Microsoft. Nó là một tập hợp siêu cú pháp nghiêm ngặt của JavaScript và thêm tính năng kiểu tĩnh tùy chọn vào ngôn ngữ"
                 },
                 {
                     "news_id": "N02",
                     "news_img": "https://i.imgur.com/APvP9LF.jpg",
-                    "news_content": "Đây là bài viết do thằng Quang LH viết.Đây là bài viết do thằng Quang LH viết.Đây là bài viết do thằng Quang LH viết.Đây là bài viết do thằng Quang LH viết.Đây là bài viết do thằng Quang LH viết."
+                    "news_content": "TypeScript là một ngôn ngữ lập trình được phát triển và duy trì bởi Microsoft. Nó là một tập hợp siêu cú pháp nghiêm ngặt của JavaScript và thêm tính năng kiểu tĩnh tùy chọn vào ngôn ngữ"
                 },
                 {
                     "news_id": "N03",
                     "news_img": "https://i.imgur.com/0y5pIXC.jpg",
-                    "news_content": "Đây là bài viết do Diệp viết."
+                    "news_content": "TypeScript là một ngôn ngữ lập trình được phát triển và duy trì bởi Microsoft. Nó là một tập hợp siêu cú pháp nghiêm ngặt của JavaScript và thêm tính năng kiểu tĩnh tùy chọn vào ngôn ngữ"
                 }
             ],
             "feedbacks":[
