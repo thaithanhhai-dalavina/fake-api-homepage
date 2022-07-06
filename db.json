@@ -25,16 +25,6 @@
             ],
             "products": [
                 {
-                    "product_id": "SP01",
-                    "category_id": "L01",
-                    "product_name": "Espresso",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-                    "product_img": [
-                        "https://i.imgur.com/FXIneUG.png"
-                    ],
-                    "product_famous": false
-                },
-                {
                     "product_id": "SP02",
                     "category_id": "L01",
                     "product_name": "Cafe đá",
@@ -118,16 +108,6 @@
                     "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
                     "product_img":[
                         "https://i.imgur.com/FXIneUG.png"
-                    ],
-                    "product_famous": false
-                },
-                {
-                    "product_id": "SP09",
-                    "category_id": "L01",
-                    "product_name": "Cà phê 01",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-                    "product_img":[
-                        "https://i.imgur.com/zE5ksti.png"
                     ],
                     "product_famous": false
                 },
