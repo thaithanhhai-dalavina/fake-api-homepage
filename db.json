@@ -193,6 +193,20 @@
                     "feedback_img":"https://i.imgur.com/pj0RL8u.png",
                     "feedback_content": "....................................."
                 }
+            ],
+            "spaces": [
+                {
+                    "id": "space01",
+                    "image": "https://i.imgur.com/Mk13JeY.jpg"
+                },
+                {
+                    "id": "space02",
+                    "image": "https://i.imgur.com/B07wL7K.jpg"
+                },
+                {
+                    "id": "space03",
+                    "image": "https://i.imgur.com/wNbb6Am.jpg"
+                }
             ]
         }
     
