@@ -1,17 +1,13 @@
 {
-    "resource": [
-        {
-            "sliders":[
-                "https://i.imgur.com/yIJj597.jpg",
-                "https://i.imgur.com/P5Z7m0K.png",
-                "https://i.imgur.com/rNNFUHT.jpg"
-            ],
-            "spaces": [
-                "https://i.imgur.com/Mk13JeY.jpg",
-                "https://i.imgur.com/B07wL7K.jpg",
-                "https://i.imgur.com/wNbb6Am.jpg"
-            ]
-        }
+    "sliders":[
+        "https://i.imgur.com/yIJj597.jpg",
+        "https://i.imgur.com/P5Z7m0K.png",
+        "https://i.imgur.com/rNNFUHT.jpg"
+    ],
+    "spaces": [
+        "https://i.imgur.com/Mk13JeY.jpg",
+        "https://i.imgur.com/B07wL7K.jpg",
+        "https://i.imgur.com/wNbb6Am.jpg"
     ],
     "homepage": [
         {
