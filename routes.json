@@ -1,6 +1,6 @@
 {
     "/api/*": "/$1",
-    "/:resource/:product_id/show": "/:resource/:product_id",
-    "/products/:product_id": "/products?product_id=:product_id",
-    "/articles\\?product_id=:product_id": "/products/:product_id"
+    "/:resource/:order_id/show": "/:resource/:order_id",
+    "/orders/:order_id": "/orders?order_id=:order_id",
+    "/articles\\?order_id=:order_id": "/orders/:order_id"
   }
