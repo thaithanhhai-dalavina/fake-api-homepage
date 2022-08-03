@@ -1,5 +1,5 @@
 {
-    "sliders":[
+    "sliders": [
         "https://i.imgur.com/yIJj597.jpg",
         "https://i.imgur.com/P5Z7m0K.png",
         "https://i.imgur.com/rNNFUHT.jpg"
@@ -13,11 +13,20 @@
         {
             "best_product": [
                 {
-                    "product_id": "SP05",
-                    "category_id": "L02",
+                    "product_id": 5,
+                    "category_id": 2,
                     "product_name": "Trà đào cam sả",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-                    "product_img":[
+                    "product_attr": [
+                        {
+                            "price": 20.000,
+                            "size": "M"
+                        },
+                        {
+                            "price": 25.000,
+                            "size": "L"
+                        }
+                    ],
+                    "product_img": [
                         "https://i.imgur.com/AQGktDT.png"
                     ],
                     "product_famous": true
@@ -25,46 +34,83 @@
             ],
             "coffee_bean": [
                 {
-                    "product_id": "SP11",
+                    "product_id": 12,
                     "product_name": "Hạt Cafe 01",
-                    "product_attr":[{"price": 200000, "size": "M"}],
-                    "product_img":[
+                    "product_attr": [
+                        {
+                            "price": 200000,
+                            "size": "M"
+                        }
+                    ],
+                    "product_img": [
                         "https://i.imgur.com/mZZ8a6w.png"
                     ]
                 },
                 {
-                    "product_id": "SP12",
+                    "product_id": 13,
                     "product_name": "Hạt Cafe 02",
-                    "product_attr":[{"price": 200.000, "size": "M"}],
-                    "product_img":[
+                    "product_attr": [
+                        {
+                            "price": 200.000,
+                            "size": "M"
+                        }
+                    ],
+                    "product_img": [
                         "https://i.imgur.com/H66nliD.png"
                     ]
                 }
             ],
             "coffee": [
                 {
-                    "product_id": "SP02",
+                    "product_id": 2,
                     "product_name": "Cafe đá",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-                    "product_img":[
+                    "product_attr": [
+                        {
+                            "price": 20.000,
+                            "size": "M"
+                        },
+                        {
+                            "price": 25.000,
+                            "size": "L"
+                        }
+                    ],
+                    "product_img": [
                         "https://i.imgur.com/SSTcobn.png",
                         "https://i.imgur.com/MwyZ0F3.jpg",
                         "https://i.imgur.com/pAoxv2m.jpg"
                     ]
                 },
                 {
-                    "product_id": "SP10",
+                    "product_id": 11,
                     "product_name": "Cà phê 02",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-                    "product_img":[
+                    "product_attr": [
+                        {
+                            "price": 20.000,
+                            "size": "M"
+                        },
+                        {
+                            "price": 25.000,
+                            "size": "L"
+                        }
+                    ],
+                    "product_img": [
                         "https://i.imgur.com/m9oCUhc.png"
                     ]
                 },
                 {
-                    "product_id": "SP03",
+                    "product_id": 3,
                     "product_name": "Cafe sữa",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-                    "product_img":[
+                    "product_attr": [
+                        {
+                            "price": 20.000,
+                            "size": "M"
+                        },
+                        {
+                            "price": 25.000,
+                            "size": "L"
+                        }
+                    ],
+                    "product_img": [
                         "https://i.imgur.com/ISoKbRY.png",
                         "https://i.imgur.com/WI69l1K.jpg",
                         "https://i.imgur.com/mjnkTaq.jpg"
@@ -73,30 +119,57 @@
             ],
             "product_slider": [
                 {
-                    "product_id": "SP02",
-                    "category_id": "L01",
+                    "product_id": 2,
+                    "category_id": 1,
                     "product_name": "Cafe đá",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-                    "product_img":[
+                    "product_attr": [
+                        {
+                            "price": 20.000,
+                            "size": "M"
+                        },
+                        {
+                            "price": 25.000,
+                            "size": "L"
+                        }
+                    ],
+                    "product_img": [
                         "https://i.imgur.com/SSTcobn.png",
                         "https://i.imgur.com/MwyZ0F3.jpg",
                         "https://i.imgur.com/pAoxv2m.jpg"
                     ]
                 },
                 {
-                    "product_id": "SP05",
+                    "product_id": 5,
                     "category_id": "L02",
                     "product_name": "Trà đào cam sả",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-                    "product_img":[
+                    "product_attr": [
+                        {
+                            "price": 20.000,
+                            "size": "M"
+                        },
+                        {
+                            "price": 25.000,
+                            "size": "L"
+                        }
+                    ],
+                    "product_img": [
                         "https://i.imgur.com/AQGktDT.png"
                     ]
                 },
                 {
-                    "product_id": "SP07",
-                    "category_id": "L03",
+                    "product_id": 7,
+                    "category_id": 3,
                     "product_name": "Mojito phúc bồn tử",
-                    "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+                    "product_attr": [
+                        {
+                            "price": 20.000,
+                            "size": "M"
+                        },
+                        {
+                            "price": 25.000,
+                            "size": "L"
+                        }
+                    ],
                     "product_img": [
                         "https://i.imgur.com/uKMD86g.png",
                         "https://i.imgur.com/DkHFHdi.png"
@@ -111,7 +184,7 @@
             "intro_content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         }
     ],
-    "news":[
+    "news": [
         {
             "news_id": "N01",
             "news_img": "https://i.imgur.com/VpIJKgf.jpg",
@@ -128,23 +201,23 @@
             "news_content": "TypeScript là một ngôn ngữ lập trình được phát triển và duy trì bởi Microsoft."
         }
     ],
-    "feedbacks":[
+    "feedbacks": [
         {
             "feedback_id": "fb1",
             "feedback_username": "Anh Lee",
-            "feedback_img":"https://i.imgur.com/pj0RL8u.png",
+            "feedback_img": "https://i.imgur.com/pj0RL8u.png",
             "feedback_content": "Cà phê đắng và mưa"
         },
         {
             "feedback_id": "fb2",
             "feedback_username": "Quang Pinky",
-            "feedback_img":"https://i.imgur.com/pj0RL8u.png",
+            "feedback_img": "https://i.imgur.com/pj0RL8u.png",
             "feedback_content": "Cà phê sữa nhiều quá"
         },
         {
             "feedback_id": "fb3",
             "feedback_username": "Diệp Stone",
-            "feedback_img":"https://i.imgur.com/pj0RL8u.png",
+            "feedback_img": "https://i.imgur.com/pj0RL8u.png",
             "feedback_content": "Không gian quán đẹp và chill phết"
         }
     ]
